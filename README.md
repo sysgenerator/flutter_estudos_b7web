@@ -11,6 +11,8 @@ cd flutter_estudos_b7web_flutter1
 * Abra o seu projeto no VSCode - 
 code .
 
+* Abra o terminal a partir do seu projeto no VSCode aberto -
+flutter run
 
 
 
